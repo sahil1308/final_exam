@@ -1,0 +1,18 @@
+{
+  "name": "final-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-build": "sass --no-source-map scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "sass": "^1.89.2"
+  }
+}
