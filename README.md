@@ -10,12 +10,6 @@ This is a web application built with Bootstrap, SASS, PHP, and MySQL.
 - Display all records with delete functionality
 - SQL injection protection using prepared statements
 
-## Setup Instructions
-
-1. Make sure XAMPP is running with Apache and MySQL
-2. Import the database setup from `db/setup.sql`
-3. Navigate to `http://localhost/final exam/` in your browser
-
 ## File Structure
 
 - `css/` - Compiled CSS files
